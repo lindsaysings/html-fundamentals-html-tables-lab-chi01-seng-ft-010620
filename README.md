@@ -1,4 +1,4 @@
-# HTML Tables
+HTML Tables
 
 ## Learning Goals
 
